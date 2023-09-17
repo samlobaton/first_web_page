@@ -1,0 +1,44 @@
+body{
+    background-color: /*para ponerle un color al fondo de la pagina*/
+   #e2e2e2;
+    color:#1743a1; /*Para cambiar el color al texto*/
+    /*font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ; /*Para cambiar de fuente por un fuente de visual studio code*/
+    font-family: 'Bricolage Grotesque', sans-serif; /*Para jalar una font desde la red*/
+}
+/*para cambiar el color de todos los elementos con propiedad h1*/
+h1,p{ /*para que h1 y p tengan los mismos colores*/
+    color: #eabf4e;
+}
+h3{
+    color:#006196;
+}
+ol{ /*cambiar el color de las listas*/
+    color: #0e1b36;
+}
+ul{
+    color: #0e1b36;
+}
+/*vamos a poner estilos a cada una de las imagenes*/
+/*el punto identifica a class*/
+.img1{  
+    width:210px; /*ancho*/
+    height: 150px; /*alto*/
+    border-style:double; /*borde alrededor de un elemento html*/
+    border-color: #0e1b36;
+    border-width: 0.2cm;
+    padding:10px; /*Separación entre contenido y borde, se puede configurar el padding por cada lado*/
+    margin: 20px; /*Separación borde con contenido externo*/
+} 
+.img2{
+    width:200px; /*ancho*/
+    height: 200px; /*alto*/
+    border-style: dashed;
+    border-color: #eabf4e;
+    border-width: 0.1cm;
+    padding:10px;
+    margin-left: 25px;
+    margin-bottom: 15px;
+}
+small{
+    color: #0e1b36;
+}
