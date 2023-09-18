@@ -1,7 +1,7 @@
 ### ¡Hola!👋
 Este es mi primer proyecto desarrollado en HTML y CSS. Es una página de interfaz sencilla pero, que contiene gran parte de las herramientas necesarias para desarrollar cualquier página,a continuación te dejo una breve descripción del proyecto.
 
-# Clonación de la interfaz de Google con HTML5 y CSS3
+# Creación de mi primera página web
 ## **ÍNDICE**
 1. [Intro](#)
 2. [Qué construí](#)
@@ -23,4 +23,4 @@ Las tecnologías son:
   ## Link a Demo
   Aquí puedes ver mi proyecto terminado: [First_web_page](https://first-web-page-jet.vercel.app/)
 
-  ##**¡Gracias por leer!**
+  ## **¡Gracias por leer!**
